@@ -1,0 +1,6 @@
+P1: Movie Trailer Website
+-------------------------
+
+The movies to include on the website are configured in movies.json.
+
+To build and load the website, run the media_center.py file.

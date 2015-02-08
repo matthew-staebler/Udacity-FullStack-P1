@@ -1,0 +1,17 @@
+[
+	{
+		"title" : "Star Wars",
+		"IMDB id" : "tt0076759",
+		"trailer url" : "www.youtube.com/watch?v=1g3_CFmnU7k"
+	},
+	{
+		"title" : "The Empire Strikes Back",
+		"IMDB id" : "tt0080684",
+		"trailer url" : "www.youtube.com/watch?v=96v4XraJEPI"
+	},
+	{
+		"title" : "Return of the Jedi",
+		"IMDB id" : "tt0086190",
+		"trailer url" : "www.youtube.com/watch?v=5UfA_aKBGMc"
+	}
+]
